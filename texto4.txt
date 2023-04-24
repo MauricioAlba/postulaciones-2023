@@ -1,3 +1,4 @@
 Rama Hotfix
 aniadiendo reparaciones de errores
 de la funcion 2
+//Haciendo notar el merge sin el no forward
